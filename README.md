@@ -2,11 +2,6 @@ Demo_System is a unified administrative and user management platform designed to
 
 Originally developed to solve the fragmentation of isolated databases (e.g., profile management and recovery systems), this project now operates as a single, cohesive ecosystem.
 
-Gemini said
-A strong GitHub README description should quickly communicate the purpose, tech stack, and key features of your project. Since "Demo_System" is a broad title, here is a professional, structured template you can adapt.
-
-Given your current focus on integrated systems and user management, I’ve tailored this to reflect a modern, full-stack architecture.
-
 Demo_System
 📌 Project Overview
 Demo_System is a unified administrative and user management platform designed to streamline data handling and improve system organization. This project serves as a comprehensive demonstration of full-stack integration, focusing on database consolidation, secure authentication, and a minimalist, intuitive user interface.
