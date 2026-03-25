@@ -1,0 +1,9 @@
+# Deny direct access to sensitive config folder only
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_URI} !^/Demo_System/auth/
+  RewriteRule ^config/ - [F,L]
+</IfModule>
+
+# Optional: redirect / to index
+DirectoryIndex index.php
